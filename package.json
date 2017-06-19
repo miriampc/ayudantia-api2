@@ -1,0 +1,31 @@
+{
+  "name": "ayudantia-api2",
+  "version": "1.0.0",
+  "description": "Ayudantia de API nro 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriampc/ayudantia-api2.git"
+  },
+  "keywords": [
+    "AJAX",
+    "JSON",
+    "HTML",
+    "JS"
+  ],
+  "author": "Miriam Castañeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miriampc/ayudantia-api2/issues"
+  },
+  "homepage": "https://github.com/miriampc/ayudantia-api2#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
